@@ -5,8 +5,8 @@
 .DS_Store
 _book
 _bookdown_files
-bookclub-BOOKABBR.Rmd
-bookclub-BOOKABBR.knit.md
-bookclub-BOOKABBR_files
+bookclub-econometrics.Rmd
+bookclub-econometrics.knit.md
+bookclub-econometrics_files
 libs
 *.html
