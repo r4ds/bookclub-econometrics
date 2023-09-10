@@ -12,7 +12,7 @@ As we read, we are producing [notes about the book](https://r4ds.io/econometrics
 
 If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-econometrics](https://rfordatascience.slack.com/archives/C04L03B6HR9) channel on Slack)!
 
-- [Cohort 1](https://docs.google.com/spreadsheets/d/1uwpli23t6PRaGZeAirsAKyp1hqcqzWSWSwSC-s-lPP4/edit?usp=sharing) (started 2023-02-18): [Saturdays, 08:00 CST/CDT](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T140000&p1=24&p2=1440) | [meeting videos](https://youtube.com/playlist?list=PL3x6DOfs2NGg-dZDvNIVm-rCDPkm1VKNu)
+- Cohort 1 (started 2023-02-18, ended 2023-09-09): [meeting videos](https://youtube.com/playlist?list=PL3x6DOfs2NGg-dZDvNIVm-rCDPkm1VKNu)
 
 <hr>
 

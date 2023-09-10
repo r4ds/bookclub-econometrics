@@ -13,12 +13,13 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/ZfrbLtAsaL4")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:46:21	Abdou:	Is the residual SE  the same as the Root MSE?
+00:46:49	Abdou:	BCOS Stata uses the Root MSE
 ```
 </details>

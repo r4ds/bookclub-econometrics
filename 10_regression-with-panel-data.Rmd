@@ -13,12 +13,29 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/VPhrsrzMau0")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:06:48	Abdou:	start
+00:18:09	Abdou:	Since all variables are observed for all entities and over all time periods, the panel is balanced. If there were missing data for at least one entity in at least one time period we would call the panel unbalanced.
+00:19:42	Abdou:	Can we say that the “zero conditional mean” assumption is violated in this case?
+00:23:54	Abdou:	But this is different from a “difference in difference” method, right?
+00:28:22	Abdou:	Thanks!
+00:30:12	Abdou:	Sorry, if I get it right is it the “state” that is fixed or some unobserved factors in the state?
+00:34:26	Abdou:	Okay, thanks!
+00:41:24	Abdou:	If we use time fixed effects, we assume that each year has a different baseline level of traffic fatality rate that is independent of the beer tax variable. By including time fixed effects, we can compare the effect of beer tax across different states within each year, while holding constant the year-specific factors.
+00:41:37	Abdou:	Not sure if this helps?
+00:49:07	Abdou:	Our results are bias, right?
+00:49:21	Abdou:	Omitted variables problem
+00:50:31	Keuntae Kim:	end
+00:52:11	Abdou:	https://en.wikipedia.org/wiki/Multilevel_model
+00:52:19	Abdou:	Will check it out
+00:53:00	Keuntae Kim:	https://www.cmm.bris.ac.uk/lemma/
+00:53:09	Abdou:	Reacted to "https://www.cmm.bris..." with 👍
+00:54:42	Keuntae Kim:	Multilevel Modeling Using R
+00:54:48	Abdou:	Reacted to "Multilevel Modeling ..." with 👍
 ```
 </details>

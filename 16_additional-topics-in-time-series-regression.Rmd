@@ -13,12 +13,18 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/Fi4dlrhv8zM")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:00:29	Abdou:	Hello
+00:02:26	Abdou:	Start
+00:20:19	Abdou:	Is it “total differentiation” stuff?
+00:29:21	Abdou:	Like the “spread” between them is stationary
+00:34:57	Abdou:	It tries to address the problem of conditional heteroskedasticity in our model
+00:36:05	Abdou:	Has volatility clustering in our data
+00:38:32	kkim315:	end
 ```
 </details>

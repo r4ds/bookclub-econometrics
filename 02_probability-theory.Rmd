@@ -13,12 +13,27 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/pXA37t6Yvwo")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:10:16	Keuntae Kim: Hello
+00:10:22	Abdou: Hi
+00:11:24	Keuntae Kim: Yes I can see the screen.
+00:11:37	Abdou: Yeah
+00:16:20	Keuntae Kim: When we connect these points,
+00:16:25	Keuntae Kim: what line would be?
+00:17:00	Keuntae Kim: I think it would be a step-shape (a spike)
+00:17:02	Keuntae Kim: ?
+00:32:06	Keuntae Kim: Why do we standardize values? Any thoughts?
+00:32:45	Keuntae Kim: Z-scores is a way of standizing raw values..
+00:35:30	Muhammed Ceesay: Thanks for the comment
+00:39:37	Keuntae Kim: Close to a normal distribution
+00:39:45	Keuntae Kim: when M increases?
+00:54:34	Abdou: Its fine
+01:10:02	Abdou: What is a reasonably large sample size?
+01:15:07	Muhammed Ceesay: I can do parts of Chapter 4. I have a seminar to prepare for this week.
 ```
 </details>

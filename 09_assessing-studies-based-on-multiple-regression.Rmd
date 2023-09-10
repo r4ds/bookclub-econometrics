@@ -13,12 +13,37 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/QCUwCupUANM")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:01:33	Keuntae’s iPad:	hold on I need to set up mic.
+00:02:06	Gus Lipkin:	Reacted to "hold on I need to se..." with 👍
+00:08:16	Gus Lipkin:	start
+00:10:04	Abdou:	start
+00:21:17	Gus Lipkin:	https://cmap.ihmc.us/
+00:21:26	Abdou:	Reacted to "https://cmap.ihmc.us..." with 👍
+00:22:20	Abdou:	Directed Acyclic Graphs (DAG)
+00:25:39	Gus Lipkin:	https://www.scribbr.com/methodology/conceptual-framework/
+00:25:44	Abdou:	Reacted to "https://www.scribbr...." with 👍
+00:25:57	Abdou:	Also check this: https://towardsdatascience.com/controls-b63dc69e3d8c
+00:31:44	Abdou:	Is the PSM trying to mimic a RCT?
+00:32:29	Abdou:	Randomized control trials (RCT)
+00:36:28	Abdou:	These comments are super useful
+00:41:40	Abdou:	What does  this symbol (>>) means?
+00:42:31	Abdou:	Thanks!
+00:46:59	Abdou:	Does iid implies E(u_i|X_1i,…,X_ki) = 0?
+00:47:23	Keuntae’s iPad:	yes
+00:47:40	Abdou:	Noted, with thanks!
+00:48:55	Abdou:	Simultaneous causality bias == reverse causality?
+00:49:34	Keuntae’s iPad:	yes. it's necessity-sufficient statement.
+00:50:27	Abdou:	Thanks, was a bit confused since some textbooks will use “reverse causality”
+00:53:18	Abdou:	Can we use autocorrelation and serial correlation interchangeably?
+00:53:55	Keuntae’s iPad:	Maybe. Quite similar concepts of the two.
+00:54:08	Abdou:	Reacted to "Maybe. Quite similar..." with 👍
+01:03:46	Gus Lipkin:	end
+01:03:48	Keuntae’s iPad:	end
 ```
 </details>

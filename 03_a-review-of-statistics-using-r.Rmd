@@ -13,12 +13,41 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/JtzCcm8N_g8")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:22:30	Keuntae Kim: This is because we only have one parameter.
+00:22:38	Keuntae Kim: What if we have two?
+00:22:50	Keuntae Kim: It would be a 3-dimensional parabolic space
+00:24:54	Keuntae Kim: Sometimes, we might need purposive sampling.
+00:25:36	Abdou: Maybe explain it better?
+00:25:44	Keuntae Kim: Meaning that we intentionally collect the sample for a specific purpose
+00:25:59	Keuntae Kim: focusing on a specific group, not general population
+00:26:25	Keuntae Kim: No, in that case, we might need to have some good rationales or theories behind that sampling process.
+00:27:06	Keuntae Kim: , which means there are many real-world cases that we might not have random sampling
+00:27:12	Keuntae Kim: even if we think it is.
+00:28:19	Keuntae Kim: That might be the case, but sometimes we might look at the over-65 years old population from the entire population.
+00:28:41	Abdou: Sure, you right
+00:28:53	Keuntae Kim: Anyway, what I would like to say is that in the real-world practice, it would be quite difficult to define what random sampling is.
+00:29:25	Keuntae Kim: We sometimes just assume that we draw the sample randomly.
+00:29:54	Abdou: Yeah for now lets assume like that
+00:30:18	Keuntae Kim: Okay. go ahead. Sorry to interrupt too much.
+00:30:53	Abdou: Not really, this was quite useful!
+```
+</details>
+
+`r knitr::include_url("https://www.youtube.com/embed/QTBPU7Ij8MM")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+00:01:25	Abdou: hI Kim
+00:22:17	Abdou: If we don’t reject the null is it the same as saying we accept it?
+00:39:49	Abdou: Cmd + Shift + M for %>% or |> in R
+00:42:28	Abdou: clear
 ```
 </details>

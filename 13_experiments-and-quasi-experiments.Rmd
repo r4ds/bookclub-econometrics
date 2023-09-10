@@ -13,12 +13,16 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/5EASq1OYuKQ")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:11:44	Abdou:	Start
+00:14:25	Abdou:	I hear you but there is some background noise
+01:25:13	Keuntae Kim:	https://www.amazon.com/Experimental-Quasi-Experimental-Designs-Research-Campbell/dp/0395307872/ref=sr_1_4?crid=1QW1N9YVJOLOL&keywords=experimental+and+quasi-experimental+designs+for+research&qid=1690035646&sprefix=experimental+research+quasi-%2Caps%2C95&sr=8-4&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0
+01:25:21	Abdou:	Reacted to "https://www.amazon.c..." with 👍
+01:25:29	Abdou:	stop
 ```
 </details>

@@ -13,12 +13,21 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/Li1keQR2tQU")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:11:00	Abdou:	Hello, are you still around
+00:12:07	Abdou:	Am not hearing you
+00:14:53	Abdou:	Start
+00:22:26	Abdou:	Yeah, many policy interventions have some lags before their effects are felt in the economy
+00:37:00	Abdou:	B_1 does not change does this imply that adding the lags does not matter?
+00:43:36	Abdou:	👍
+00:50:29	Abdou:	Are the ACFs about Stationarity in this case
+00:52:20	Abdou:	What is the main difference between the exogeneity and strict exogeneity?
+00:53:13	Abdou:	Is it the time frames we consider in the zero condition mean of the error terms?
+01:05:28	Keuntae Kim:	end
 ```
 </details>

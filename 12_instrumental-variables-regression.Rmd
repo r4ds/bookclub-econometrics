@@ -13,12 +13,15 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/Y2RuGPahKGM")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:09:00	Keuntae’s iPad:	start
+00:15:29	Keuntae’s iPad:	no go ahead.
+00:15:40	Keuntae’s iPad:	noisy outside my apt.
+01:02:25	Keuntae’s iPad:	end
 ```
 </details>
