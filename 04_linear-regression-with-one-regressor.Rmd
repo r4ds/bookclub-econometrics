@@ -13,12 +13,16 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/WiZEdxfJ6sY")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:03:21	Abdou:	Hello
+00:15:51	Keuntae Kim:	What is the threshold value for good R2?
+00:21:08	Abdou:	Am thinking > 0.7?
+01:02:51	Abdou:	Thanks!
+01:03:03	Abdou:	Found the comments useful
 ```
 </details>

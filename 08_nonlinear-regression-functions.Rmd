@@ -13,12 +13,22 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/_UVBLid0imU")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:01:29	Abdou:	Hey guys
+00:06:55	Abdou:	Start
+00:07:27	Gus Lipkin:	start
+00:09:52	Abdou:	Sure, that sounds good!
+00:26:12	Abdou:	Are their test to determine the presence of non-linearity in our regression model?
+00:27:19	Abdou:	Or should we just look for the presence of polynomials, logs, products etc…
+00:42:01	Abdou:	Awesome, the matrix visualizations makes it really interesting
+01:01:16	Gus Lipkin:	end
+01:01:18	Abdou:	end
 ```
 </details>
+
+`r knitr::include_url("https://www.youtube.com/embed/KVt0fybEmPI")`

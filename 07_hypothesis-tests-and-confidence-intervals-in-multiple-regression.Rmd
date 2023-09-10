@@ -13,12 +13,16 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/guETbfuZZEg")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:10:23	Abdou:	Sure, we did!
+00:18:15	Abdou:	"pt" implies "probability distribution function for the Student's t-distribution". It is used to calculate the p-value of a two-sided test.
+00:30:01	Abdou:	Why can’t we just test the coefficients one at a time? Instead of doing a joint test.
+01:10:14	Abdou:	How large does the # observation has to be for F-distribution to approximate the chi-square/q?
+01:12:45	Abdou:	Thanks!
 ```
 </details>

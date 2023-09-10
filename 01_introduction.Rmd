@@ -13,12 +13,36 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/FODf9YSQj-o")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:02:32	Abdou: Hello
+00:02:39	Keuntae Kim: Good morning
+00:02:44	Muhammed Ceesay: Hi
+00:03:34	Abdou: Okay, I guess we could start
+00:03:47	Keuntae Kim: good
+00:04:12	Muhammed Ceesay: Yes We Can.
+
+I can hear you
+00:04:23	Keuntae Kim: I can hear you, too.
+00:04:32	Keuntae Kim: I think we are good to go.
+00:08:48	Keuntae Kim: Okay.
+00:09:52	Keuntae Kim: I can see the screenshot.
+00:18:10	Gus Lipkin: https://www.econometrics-with-r.org/index.html
+00:23:20	Keuntae Kim: Run the "nrow(available.packages(repos = "http://cran.us.r-project.org"))"
+00:23:46	Keuntae Kim: The number is different when you run this online and when you run it in RStudio
+00:25:05	Keuntae Kim: Online: 14393 RStudio: 19196. Which one is correct?
+00:26:48	Gus Lipkin: They might be using different repositories. The 19196 I think is even lower than total
+
+CRAN themselves say 19223: https://cran.r-project.org/web/packages/
+00:27:55	Keuntae Kim: Got it. Maybe a different version of R embedded into the book. Thank you.
+00:28:09	Keuntae Kim: We need to decide who will do the next chapter next week.
+00:29:36	Keuntae Kim: Then, let's do 2.1 for one week and 2.2 for the next.
+00:30:02	Keuntae Kim: Chapter 2 is dense and includes a lot of math. theories, so we need to study deeper.
+00:30:41	Keuntae Kim: Abdou, you do chapter 2.1 next week and I will do 2.2 two weeks later.
+00:32:17	Keuntae Kim: See you all next week. Bye.
 ```
 </details>
