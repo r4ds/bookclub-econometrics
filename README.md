@@ -1,12 +1,12 @@
-# R4DS Introduction to Econometrics with R Book Club
+# DSLC Introduction to Econometrics with R Book Club
 
 ALSO ADD PLACEHOLDERS FOR ALL CHAPTERS BY COPYING 01.Rmd (IDEALLY ALSO UPDATE TITLES WITHIN THE FILES), THEN DELETE THIS SENTENCE.
 
-Welcome to the R4DS Introduction to Econometrics with R Book Club!
+Welcome to the DSLC Introduction to Econometrics with R Book Club!
 
 We are working together to read [_Introduction to Econometrics with R_](https://www.econometrics-with-r.org) by Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer.
-Join the [#book_club-econometrics](https://rfordatascience.slack.com/archives/C04L03B6HR9) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
-As we read, we are producing [notes about the book](https://r4ds.io/econometrics).
+Join the [#book_club-econometrics](https://rfordatascience.slack.com/archives/C04L03B6HR9) channel on the [DSLC Slack](https://dslc.io/join) to participate.
+As we read, we are producing [notes about the book](https://dslc.io/econometrics).
 
 ## Meeting Schedule
 
@@ -41,5 +41,5 @@ Do these steps each time you present another chapter:
 10. When your PR has been accepted ("merged"), `usethis::pr_finish()` to close out your branch and prepare your local repository for future work.
 11. Now that your local copy is up-to-date with the main repo, you need to update your remote fork. Run `gert::git_push("origin")` or click the `Push` button on the `Git` tab of Rstudio.
 
-When your PR is checked into the main branch, the bookdown site will rebuild, adding your slides to [this site](https://r4ds.io/econometrics).
+When your PR is checked into the main branch, the bookdown site will rebuild, adding your slides to [this site](https://dslc.io/econometrics).
 
